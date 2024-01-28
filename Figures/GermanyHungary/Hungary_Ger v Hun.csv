@@ -1,0 +1,6 @@
+,László Kleinheisler,Roland Sallai,Attila Fiola,Endre Botka,Ádám Szalai,Ádám Nagy,Attila Szalai,Willi Orbán,Loïc Négo,András Schäfer,Szabolcs Schön,Kevin Varga,Nemanja Nikolić,Gergő Lovrencsics
+Interval_0-Interval_1,['RAM'],"['CF', 'RCF']","['LB', 'LM']",['RCB'],"['CF', 'LCF']",['CM'],['LCB'],['CB'],['RM'],['LCM'],,,,
+Interval_1-Interval_2,['RCM'],,['LB'],['RCB'],"['CF', 'LCF']","['CM', 'LCM']",['LCB'],"['RCB', 'CB']",['RM'],"['LM', 'LF']","['CF', 'RCF']",,,
+Interval_2-Interval_3,['RCM'],,['LM'],['RCB'],,['CM'],['LCB'],"['RCB', 'CB']",['RM'],"['LCM', 'LM']",['CF'],"['CF', 'RCF']",,
+Interval_3-Interval_4,['RAM'],,,['RCB'],,['CM'],['LCB'],"['CM', 'CDM']",['RDM'],['LCM'],['RAM'],['LM'],['LCF'],
+Interval_4-Interval_5,,,,['RCB'],,"['CM', 'RCM']",['LCB'],['CDM'],['RAM'],"['LCM', 'LM']",['RCF'],"['LB', 'LM']",['LCF'],"['RB', 'RM']"

@@ -1,0 +1,7 @@
+,Mats Hummels,Robin Gosens,Serge Gnabry,Leroy Sané,Matthias Ginter,Kai Havertz,Joshua Kimmich,Toni Kroos,Antonio Rüdiger,İlkay Gündoğan,Leon Goretzka,Thomas Müller,Timo Werner,Jamal Musiala,Kevin Volland
+Interval_0-Interval_1,['CB'],['LM'],"['CF', 'LCF']",['CF'],['RCB'],['RCF'],"['RM', 'RF']",['LCM'],['LCB'],"['CM', 'RCM']",,,,,
+Interval_1-Interval_2,['CB'],['LM'],['CF'],['RM'],['RDM'],"['CAM', 'RAM']",['RDM'],"['CM', 'LCM']",['LCB'],,"['CM', 'LCM']",,,,
+Interval_2-Interval_3,['RCB'],['LB'],,['RF'],['RB'],['LF'],['RCM'],['LAM'],['LCB'],,"['CM', 'CAM']","['CF', 'LCF']",,,
+Interval_3-Interval_4,['CB'],['LM'],,"['RM', 'RF']",['RCB'],,['RCM'],"['LDM', 'CDM', 'CM', 'LCM']",['LCB'],,"['CM', 'CAM', 'LCM', 'LAM']",['RCF'],['LCF'],,
+Interval_4-Interval_5,"['RCB', 'CB']",,,['RCM'],['RCB'],,['LCM'],['CDM'],['LCB'],,['CAM'],['RCF'],"['LM', 'LF']",['LCF'],
+Interval_5-Interval_6,['CB'],,,['RM'],,,['RCB'],['LCM'],['LCB'],,['RCM'],"['CAM', 'RAM']",['LM'],"['CF', 'LCF']","['CF', 'RCF']"
