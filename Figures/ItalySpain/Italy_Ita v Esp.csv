@@ -1,0 +1,8 @@
+,Giorgio Chiellini,Marco Verratti,Giovanni Di Lorenzo,Federico Chiesa,Lorenzo Insigne,Ciro Immobile,Emerson,Nicolò Barella,Jorginho,Leonardo Bonucci,Domenico Berardi,Matteo Pessina,Rafael Tolói,Manuel Locatelli,Andrea Belotti,Federico Bernardeschi
+Interval_0-Interval_1,['LCB'],['LCM'],"['RCB', 'RB']",['RF'],['LF'],['CF'],"['LB', 'LM']",['RCM'],"['CM', 'RCM']","['RCB', 'CB']",,,,,,
+Interval_1-Interval_2,['LCB'],['LCM'],"['RCB', 'RB']",['LF'],['CF'],,['LB'],['RCM'],['CM'],"['RCB', 'CB']",['RF'],,,,,
+Interval_2-Interval_3,['LCB'],,['RM'],['LF'],['RCF'],,"['LF', 'LCF']","['CM', 'RCM']",['RCM'],['RCB'],['RF'],['LCM'],,,,
+Interval_3-Interval_4,['LCB'],,"['LCB', 'LB']",['LF'],"['CF', 'LCF']",,,['LCM'],"['CM', 'RCM']",['RCB'],['RF'],"['CM', 'RCM']",['RB'],,,
+Interval_4-Interval_5,['LCB'],,['LM'],['LF'],['CF'],,,,"['CDM', 'RDM']",['RCB'],['RF'],"['CM', 'RAM', 'CAM', 'RCM']",['RM'],"['LDM', 'LCM']",,
+Interval_5-Interval_6,['LCB'],,"['LCB', 'LB']",['LF'],,,,,['RCM'],['RCB'],['RF'],"['CM', 'CAM']",['RB'],['LCM'],['CF'],
+Interval_6-Interval_7,"['LCB', 'CB']",,"['LCB', 'LB']",,,,,,"['CM', 'CDM']",['RCB'],"['RF', 'RCF']","['CM', 'RCM']","['RB', 'RM']",['LCM'],"['CF', 'LCF']","['LM', 'LF']"

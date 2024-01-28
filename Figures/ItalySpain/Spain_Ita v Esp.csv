@@ -1,0 +1,8 @@
+,Sergio Busquets,Aymeric Laporte,Eric García,Ferran Torres,César Azpilicueta,Pedri,Koke,Dani Olmo,Mikel Oyarzabal,Jordi Alba,Álvaro Morata,Gerard Moreno,Rodri,Marcos Llorente,Thiago Alcántara,Pau Torres
+Interval_0-Interval_1,"['LDM', 'CDM', 'CM', 'LCM']",['LCB'],['RCB'],['LF'],"['RB', 'RM']","['CM', 'CAM', 'LCM', 'LAM']",['RCM'],['CF'],"['RF', 'RCF']","['LCB', 'LB']",,,,,,
+Interval_1-Interval_2,"['CM', 'LCM']",['LCB'],['RCB'],,['RM'],"['CM', 'CAM', 'LCM', 'LAM']",['RCM'],['CF'],"['RF', 'RCF']","['LB', 'LM']",['LF'],,,,,
+Interval_2-Interval_3,['LCM'],['LCB'],['RCB'],,['RB'],['CM'],['RCM'],"['LCM', 'LM']",,['LB'],['LCF'],['RCF'],,,,
+Interval_3-Interval_4,"['CM', 'LCM']","['LCB', 'CB']",['RCB'],,['RM'],"['CM', 'CAM', 'LCM', 'LAM']",,"['LM', 'LF']",,"['LCB', 'LB']","['CF', 'LCF']",['RF'],['RCM'],,,
+Interval_4-Interval_5,"['CM', 'CDM']",['LCB'],['RCB'],,,"['CM', 'CAM', 'LCM', 'LAM']",,['LF'],,"['LCB', 'LB']","['CF', 'LCF']","['RF', 'RCF']",['RCM'],"['RB', 'RM']",,
+Interval_5-Interval_6,,['LCB'],['RCB'],,,"['CM', 'CAM', 'LCM', 'LAM']",,"['LM', 'LF']",,"['LCB', 'LB']","['CF', 'LCF']","['RF', 'RCF']","['CM', 'LCM']","['RB', 'RM']",['RCM'],
+Interval_6-Interval_7,,['RCB'],,,,"['CM', 'CAM', 'LCM', 'LAM']",,['LF'],,['LDM'],"['CF', 'LCF']","['RF', 'RCF']","['LDM', 'CDM', 'CM', 'LCM']",['RM'],['RDM'],['LCB']
