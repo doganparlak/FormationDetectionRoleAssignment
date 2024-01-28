@@ -1,6 +1,6 @@
-## FormationDetectionRoleAssignment
+## Formation Detection and Role Assignment Algorithm
 
-The FormationDetectionRoleAssignment project aims to detect the shape of a team at any given frame (snapshot) during a match and assign roles to players using computational geometry and network science techniques.
+The Formation Detection and Role Assignment  project aims to detect the shape of a team at any given frame (snapshot) during a match and assign roles to players using computational geometry and network science techniques. The data used to develop this project was provided by UEFA and FIFA, including tracking and event data. However, due to confidentiality reasons, this data cannot be shared.
 
 ### Folder Overview:
 
