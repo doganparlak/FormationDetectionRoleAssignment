@@ -8,4 +8,4 @@ The FormationDetectionRoleAssignment project aims to detect the shape of a team 
 
 ### Project Files:
 
-- **formationdetectionroleassignment.ipynb**: This Jupyter Notebook contains the source code created for the purpose of this analysis. It includes code for detecting team formations, assigning player roles, and generating visualizations based on computational geometry and network science techniques.
+- **formation_detection_role_assignment.ipynb**: This Jupyter Notebook contains the source code created for the purpose of this analysis. It includes code for detecting team formations, assigning player roles, and generating visualizations based on computational geometry and network science techniques.
